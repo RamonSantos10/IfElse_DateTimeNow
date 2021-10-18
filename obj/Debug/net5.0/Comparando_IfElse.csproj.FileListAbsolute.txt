@@ -1,0 +1,16 @@
+C:\Projetos\AMS\1ano\SEMESTRE2\Datas\Atividade_Datas_IfElse\Comparando_IfElse\bin\Debug\net5.0\Comparando_IfElse.exe
+C:\Projetos\AMS\1ano\SEMESTRE2\Datas\Atividade_Datas_IfElse\Comparando_IfElse\bin\Debug\net5.0\Comparando_IfElse.deps.json
+C:\Projetos\AMS\1ano\SEMESTRE2\Datas\Atividade_Datas_IfElse\Comparando_IfElse\bin\Debug\net5.0\Comparando_IfElse.runtimeconfig.json
+C:\Projetos\AMS\1ano\SEMESTRE2\Datas\Atividade_Datas_IfElse\Comparando_IfElse\bin\Debug\net5.0\Comparando_IfElse.runtimeconfig.dev.json
+C:\Projetos\AMS\1ano\SEMESTRE2\Datas\Atividade_Datas_IfElse\Comparando_IfElse\bin\Debug\net5.0\Comparando_IfElse.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\Datas\Atividade_Datas_IfElse\Comparando_IfElse\bin\Debug\net5.0\ref\Comparando_IfElse.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\Datas\Atividade_Datas_IfElse\Comparando_IfElse\bin\Debug\net5.0\Comparando_IfElse.pdb
+C:\Projetos\AMS\1ano\SEMESTRE2\Datas\Atividade_Datas_IfElse\Comparando_IfElse\obj\Debug\net5.0\Comparando_IfElse.csproj.AssemblyReference.cache
+C:\Projetos\AMS\1ano\SEMESTRE2\Datas\Atividade_Datas_IfElse\Comparando_IfElse\obj\Debug\net5.0\Comparando_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AMS\1ano\SEMESTRE2\Datas\Atividade_Datas_IfElse\Comparando_IfElse\obj\Debug\net5.0\Comparando_IfElse.AssemblyInfoInputs.cache
+C:\Projetos\AMS\1ano\SEMESTRE2\Datas\Atividade_Datas_IfElse\Comparando_IfElse\obj\Debug\net5.0\Comparando_IfElse.AssemblyInfo.cs
+C:\Projetos\AMS\1ano\SEMESTRE2\Datas\Atividade_Datas_IfElse\Comparando_IfElse\obj\Debug\net5.0\Comparando_IfElse.csproj.CoreCompileInputs.cache
+C:\Projetos\AMS\1ano\SEMESTRE2\Datas\Atividade_Datas_IfElse\Comparando_IfElse\obj\Debug\net5.0\Comparando_IfElse.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\Datas\Atividade_Datas_IfElse\Comparando_IfElse\obj\Debug\net5.0\ref\Comparando_IfElse.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\Datas\Atividade_Datas_IfElse\Comparando_IfElse\obj\Debug\net5.0\Comparando_IfElse.pdb
+C:\Projetos\AMS\1ano\SEMESTRE2\Datas\Atividade_Datas_IfElse\Comparando_IfElse\obj\Debug\net5.0\Comparando_IfElse.genruntimeconfig.cache
